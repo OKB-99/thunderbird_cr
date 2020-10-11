@@ -1,0 +1,31 @@
+[
+  {
+    "namespace": "thunderbirdcr",
+    "functions": [
+      {
+        "name": "toggleWindow",
+        "type": "function",
+        "parameters": [
+          {
+            "name": "mainHtml",
+            "type": "string",
+            "description": "The path of main.html"
+          },
+          {
+            "name": "windowStatus",
+            "type": "string",
+            "description": "opended or closed"
+          }]
+      },
+      {
+        "name": "quickSearch",
+        "type": "function",
+        "parameters": [{
+          "name": "sourceText",
+          "type": "string",
+          "description": "search text"
+        }]
+      }
+    ]
+  }
+]
