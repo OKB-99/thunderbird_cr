@@ -4,6 +4,7 @@
   "description": "Context Reverso for Thunderbird.",
   "version": "0.50",
   "author": "Takumi Ishida",
+  "default_locale": "en",
   "applications": {
     "gecko": {
       "id": "thunderbirdcr@okb99.com",
